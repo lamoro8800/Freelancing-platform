@@ -1,4 +1,4 @@
-#About The Project:
+# About The Project:
 This project was a significant part of our first-semester coursework, and I actively contributed as a team member. Our primary goal was to develop a freelancing platform that employed a unique approach, using a database structure that is formed from folders and files.
 
 Project Features:
