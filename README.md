@@ -5,4 +5,4 @@ This project was a significant part of our first-semester coursework, and I acti
 + **Client:** register and log in to the system securely, have the ability to create and remove job posts, receive and review proposals submitted by freelancers for specific job posts, and accept or reject proposals.
 + **Freelancer:** register and log in to the system, view all available job posts, search for specific jobs by title, submit proposals for jobs, and track the status of their proposals.
 # Technology Stack: 
-**Python**
++ **Python**
